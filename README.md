@@ -9,6 +9,9 @@
 2. 获取的信息增量保存于当前时间点的新建csv文件中
 3. 维护搜索过的职位信息于zhipin_jobs_all.csv
 
+## 备注
+如果发现运行过慢或者无法正常获取数据，开个代理再试试
+
 ## Requirements
 - Python 3.x
 - Selenium
