@@ -29,3 +29,5 @@ pip install selenium beautifulsoup4 webdriver_manager
 cd zhipin_scraper
 python zhipin_scraper.py
 ```
+## 演示
+![](zhipin_scraper/演示.gif)
